@@ -1,11 +1,11 @@
 Bank Management System (C++)
 
-📌 Description
+📌 Description: 
 
 A console-based Bank Management System built using C++.
 It uses Object-Oriented Programming and file handling to manage multiple accounts.
 
-🚀 Features
+🚀 Features: 
 
 Create Account
 Deposit & Withdraw
@@ -13,12 +13,12 @@ Delete Account
 Delete All Accounts
 Transaction History
 
-🛠️ Technologies Used
+🛠️ Technologies Used: 
 C++
 File Handling
 OOP Concepts
 
-▶️ How to Run
+▶️ How to Run: 
 Compile:
 g++ bank_management_system.cpp -o bank
 
